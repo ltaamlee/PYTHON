@@ -1,3 +1,11 @@
-# PYTHON
-## Flowchart
-## 1D - 2D Array
+#                                              PYTHON
+##          Flowchart
+##          Number Theory
+##          1D - 2D Array
+##          String
+##          DSA
+###            Stack
+###            Dictionary
+
+
+
