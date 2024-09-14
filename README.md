@@ -1,9 +1,7 @@
 # 🐍 PYTHON
-## 📖 *Flowchart*
-## 📖 *Number Theory*
-## 📚 *Libary*
-## 🏼 *1D - 2D Array*
-## 📜 *String*
-##  *DSA*
-- Stack
-- Dictionary
+## 📖 *Variables & Datatype*
+## 📖 *If - Else*
+## 📖 *Loop*
+## 📖 *List*
+## 📖 *Set - Tuple - Dictionary*
+## 📖 *File*
