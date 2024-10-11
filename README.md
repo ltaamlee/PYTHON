@@ -1,5 +1,5 @@
 # 🐍 PYTHON
-## 📖 *Variables & Datatype*
+## 📖 *[Variables & Datatype](https://github.com/ltaamlee/PYTHON/tree/main/Variables%20%26%20DataType)*
 ## 📖 *If - Else*
 ## 📖 *Loop*
 ## 📖 *List*
