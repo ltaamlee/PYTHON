@@ -4,7 +4,7 @@
 ## 📖 *[Loop](https://github.com/ltaamlee/PYTHON/tree/main/Loop)*
 ## 📖 *[List](https://github.com/ltaamlee/PYTHON/tree/main/List)*
 ## 📖 *[Set - Tuple - Dictionary](https://github.com/ltaamlee/PYTHON/tree/main/Set%20-%20Tuple%20-%20Dictionary)*
-## 📖 *Def*
-## 📖 *String*
+## 📖 *[Def](https://github.com/ltaamlee/PYTHON/tree/main/Def)*
+## 📖 *[String](https://github.com/ltaamlee/PYTHON/tree/main/String)*
 ## 📖 *Modules*
 ## 📖 *Class*
