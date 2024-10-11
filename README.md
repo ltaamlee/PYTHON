@@ -4,4 +4,7 @@
 ## 📖 *Loop*
 ## 📖 *List*
 ## 📖 *Set - Tuple - Dictionary*
-## 📖 *File*
+## 📖 *Def*
+## 📖 *String*
+## 📖 *Modules*
+## 📖 *Class*
