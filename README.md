@@ -1,5 +1,5 @@
 <h1> 🐍 PYTHON </h1>
-  ---
+
 ## 📖 *[Variables & Datatype](https://github.com/ltaamlee/PYTHON/tree/main/Variables%20%26%20DataType)*
 ## 📖 *[If - Else](https://github.com/ltaamlee/PYTHON/tree/main/If%20-%20Else)*
 ## 📖 *[Loop](https://github.com/ltaamlee/PYTHON/tree/main/Loop)*
