@@ -8,4 +8,5 @@
 ## 📖 *[Def](https://github.com/ltaamlee/PYTHON/tree/main/Def)*
 ## 📖 *[String](https://github.com/ltaamlee/PYTHON/tree/main/String)*
 ## 📖 *[Module](https://github.com/ltaamlee/PYTHON/tree/main/Module)*
-## 📖 *Class*
+## 📖 *[Class](https://github.com/ltaamlee/PYTHON/tree/main/Class)*
+## 📖 *[NumPy](https://github.com/ltaamlee/PYTHON/tree/main/NumPy)*
